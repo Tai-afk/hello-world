@@ -1,3 +1,2 @@
 # hello-world
-New repository
-Fuck you  
+New repository 
